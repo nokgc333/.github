@@ -1,18 +1,18 @@
 ---
-name: 不具合
-about: 期待どおりに動かないとき
+name: Bug report
+about: Something does not work as expected
 title: "fix: "
 ---
 
-## 再現手順
+## Steps to reproduce
 
 1.
 2.
 
-## 期待する動き
+## Expected behavior
 
-## 実際の動き
+## Actual behavior
 
-## 環境
+## Environment
 
-<!-- OS / バージョン / ブラウザ など -->
+<!-- OS / version / browser, etc. -->

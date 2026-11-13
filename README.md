@@ -1,9 +1,11 @@
 # .github
 
-このアカウントのリポジトリに、既定で効く Issue と Pull Request のテンプレートです。
+English | [日本語](README.ja.md)
 
-- `.github/ISSUE_TEMPLATE/task.md`: 作業の依頼（背景・やること・完了条件）
-- `.github/ISSUE_TEMPLATE/bug.md`: 不具合（再現手順・期待・実際・環境）
-- `PULL_REQUEST_TEMPLATE.md`: Pull Request（目的・変更・確認）
+Default Issue and Pull Request templates for the repositories of this account.
 
-リポジトリ側に同じ種類のファイルがあれば、そちらが優先されます。
+- `.github/ISSUE_TEMPLATE/task.md`: Task (background, to do, done when)
+- `.github/ISSUE_TEMPLATE/bug.md`: Bug report (steps to reproduce, expected, actual, environment)
+- `PULL_REQUEST_TEMPLATE.md`: Pull Request (purpose, changes, verification)
+
+A file of the same kind in a repository takes precedence over these defaults.
