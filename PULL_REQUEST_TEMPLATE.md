@@ -1,12 +1,12 @@
-## 目的
+## Purpose
 
-<!-- 1〜2行。なぜこの変更か。Issue があれば Closes #n -->
+<!-- One or two lines: why this change is needed. Add "Closes #n" if there is an Issue -->
 
-## 変更
+## Changes
 
 -
 
-## 確認
+## Verification
 
 - CI:
-- 手動で確かめたことがあれば1行
+- One line for any manual check

@@ -1,17 +1,17 @@
 ---
-name: 作業の依頼
-about: 機能の追加、リファクタリング、ドキュメントの整備など
+name: Task
+about: A new feature, refactoring, documentation, and so on
 title: "feat: "
 ---
 
-## 背景
+## Background
 
-<!-- なぜ必要か。困っていること（1〜3行） -->
+<!-- Why it is needed and what the problem is (one to three lines) -->
 
-## やること
+## To do
 
-- 項目を書く
+- Describe an item
 
-## 完了条件
+## Done when
 
-- 確認の方法を書く
+- Describe how to verify it
